@@ -20,3 +20,23 @@ I had to create a virtual environment for my project due to Debian's Linux distr
     python3 -m venv .venv
     source .venv/bin/activate
 ```
+
+### Installing Psychopy
+
+For this, I had to install wxPython package before. As I'm using a Ubuntu 23.04 distro, I couldnt install directly from the page [wxPython/extras](https://extras.wxpython.org/wxPython4/extras/linux/gtk3/). It didnt exist any version that I could use from the moment that I did this. Then I simply built my own wxPython, following this instructions: [Building wxPython for Linux](https://wxpython.org/blog/2017-08-17-builds-for-linux-with-pip/index.html).
+
+Though they recommend you installing all that packages before, I just had to install `gtk`. Like this:
+
+```
+sudo apt-get install libgtk-3-dev
+```
+
+After, I've runned the command:
+```
+pip install wxpython
+```
+
+Lastly and finally, the one:
+```
+pip install psychopy
+```
