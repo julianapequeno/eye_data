@@ -11,3 +11,10 @@
 - [Video about using an eyetracker while playing](https://www.youtube.com/watch?v=0dmXyM7Q3nc) (03-14-24)
 - [eye tracking software - Tobii Ghost](https://gaming.tobii.com/getstarted/) (03-14-24)
 - [Playlist about Pyschopy](https://www.youtube.com/playlist?list=PL6PJquR5BWXllUt585cRJWcRTly55iXTm)
+
+## Courses on PsychoPy
+- https://www.djmannion.net/psych_programming/vision/index.html
+- https://link.springer.com/book/10.1007/978-3-319-64066-2
+- https://lukas-snoek.com/introPy/week_2/psychopy_builder_part2.html
+- https://www.youtube.com/playlist?list=PLFB5A1BE51964D587
+- http://sapir.psych.wisc.edu/programming_for_psychologists/

@@ -40,3 +40,8 @@ Lastly and finally, the one:
 ```
 pip install psychopy
 ```
+
+### Learning - Psychopy
+
+For initial studies I've decided to learn more about Psychopy through this course: [Psychopy and Python](https://www.djmannion.net/psych_programming/vision/index.html)
+
