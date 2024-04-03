@@ -41,6 +41,16 @@ Lastly and finally, the one:
 pip install psychopy
 ```
 
+### Outdoors - Psychopy
+I suggest you installing TobiiProManager, it is free and you can get it in Tobii's site. It is very easy to install and to use. The manager could be very helpful for quick calibrations and verifications.
+
+### Indoors - Psychopy
+
+In order to connect Tobii Pro Spark Eyetracker with Psychopy, I installed tobii plug-in. The newest release of psychopy changed it from being built-in to being a plug-in. Here is package github's repository: [psychopy-eyetracker-tobii](https://github.com/psychopy/psychopy-eyetracker-tobii). Or you can just download on the application itself, here's a discussion about this that can help: https://discourse.psychopy.org/t/connect-to-eye-tracking-device/36423.
+
+
+
+
 ### Learning - Psychopy
 
 For initial studies I've decided to learn more about Psychopy through this course: [Psychopy and Python](https://www.djmannion.net/psych_programming/vision/index.html)
