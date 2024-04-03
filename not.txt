@@ -1,0 +1,5 @@
+Python 3.10
+GTK3
+Python3.10-venv
+WxPython 4.2.1
+PsychoPy
