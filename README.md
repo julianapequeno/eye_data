@@ -1,6 +1,6 @@
 ## Working and studying EyeTracking with Tobii Pro Spark. 
 > ### Project's development.
-> I've been keeping my thoughts 💡, important links and daily improvements in these files: [project_development.md](project_development.md) and [notes.md](notes.md)
+> I've been keeping my thoughts 💡, important links and daily improvements in these files: [project_development.md](documentation/project_development.md) and [notes.md](documentation/notes.md)
 ### Tobii Pro SDK
 Before I got started I've got to install Tobii Pro SDK Kit and Tobii Pro EyeTracker Manager. 
 For this project, I've imported all the files from SDK KIT, but you can choose other way to go. 
