@@ -13,7 +13,7 @@
 - [Playlist about Pyschopy](https://www.youtube.com/playlist?list=PL6PJquR5BWXllUt585cRJWcRTly55iXTm)
 - [Tobii-Eyetracker implementation notes for psychopy](https://www.psychopy.org/api/iohub/device/eyetracker_interface/Tobii_Implementation_Notes.html#additional-software-requirements) (04-03-24)
 - [Communication with Eyetracker on Psychopy](https://psychopy.org/hardware/eyeTracking.html) (04-03-24)
-
+- [Titta - Paper](https://link.springer.com/article/10.3758/s13428-020-01358-8)
 ## Courses on PsychoPy 
 - https://www.djmannion.net/psych_programming/vision/index.html
 - https://link.springer.com/book/10.1007/978-3-319-64066-2
