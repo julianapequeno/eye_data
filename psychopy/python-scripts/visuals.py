@@ -1,6 +1,4 @@
 import psychopy.visual as pv
-import psychopy.event as pe
-import psychopy.iohub as iohub
 from psychopy.iohub import launchHubServer
 
 win = pv.Window(
