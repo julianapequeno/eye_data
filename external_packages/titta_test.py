@@ -37,7 +37,7 @@ if dual_screen_setup:
     mon_op.setSizePix(SCREEN_RES_OP)
 
 
-im_names = ['im1.jpeg', 'im2.jpeg', 'im3.jpeg']
+im_names = ['../EYEtracking-gitrepo/eye_data/data/titta/im1.jpeg', '../EYEtracking-gitrepo/eye_data/data/titta/im2.jpeg', '../EYEtracking-gitrepo/eye_data/data/titta/im3.jpeg']
 stimulus_duration = 3
 
 # %%  ET settings

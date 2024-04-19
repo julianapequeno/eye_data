@@ -12,7 +12,7 @@ import os
 class EyeTrackerDataCollector:
     def __init__(self):
         now = datetime.now()
-        self.file_path = now.strftime('eyedata/testing/%Y%m%d%H%M.csv')
+        self.file_path = now.strftime('%Y%m%d%H%M.csv')
         self.start_time = None  # Initialize start_time
         self.recording_duration = 5
         self.my_eyetracker = self.initialize_eye_tracker()
@@ -63,6 +63,7 @@ class EyeTrackerDataCollector:
 
 # Main thread
 if __name__ == "__main__":
+    print('COllecting')
     collector = EyeTrackerDataCollector()
     thread_eye = threading.Thread(target=collector.start_collecting)
     thread_eye.start()
