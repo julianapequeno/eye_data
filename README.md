@@ -2,9 +2,7 @@
 > ### Project's development.
 > I've been keeping my thoughts 💡, important links and daily improvements in these files: [project_development.md](documentation/project_development.md) and [notes.md](documentation/notes.md)
 
-
-
-### Updates | HeatMap 
+### Updates | HeatMap (04-19-24)
 
 <img src='/heatmap/data_collected/20240419.svg'>
 
