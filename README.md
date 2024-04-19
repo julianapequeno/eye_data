@@ -1,6 +1,15 @@
 ## Working and studying EyeTracking with Tobii Pro Spark. 
 > ### Project's development.
 > I've been keeping my thoughts 💡, important links and daily improvements in these files: [project_development.md](documentation/project_development.md) and [notes.md](documentation/notes.md)
+
+
+
+### Updates | HeatMap 
+
+<img src='../eye_data/heatmap/data_collected/20240419.svg'>
+
+Lately I'm focusing in trying new things with the data collected by the EyeTracker. Then, I decided to start by ploting a heatmap of the gaze vector. After some strugles - learning how to work with pandas - I finally get my first glimpse of the heatmaps! 
+
 ### Tobii Pro SDK
 Before I got started I've got to install Tobii Pro SDK Kit and Tobii Pro EyeTracker Manager. 
 For this project, I've imported all the files from SDK KIT, but you can choose other way to go. 
