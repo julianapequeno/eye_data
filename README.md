@@ -6,7 +6,7 @@
 
 ### Updates | HeatMap 
 
-<img src='../eye_data/heatmap/data_collected/20240419.svg'>
+<img src='/heatmap/data_collected/20240419.svg'>
 
 Lately I'm focusing in trying new things with the data collected by the EyeTracker. Then, I decided to start by ploting a heatmap of the gaze vector. After some strugles - learning how to work with pandas - I finally get my first glimpse of the heatmaps! 
 
