@@ -15,6 +15,8 @@
 - [Communication with Eyetracker on Psychopy](https://psychopy.org/hardware/eyeTracking.html) (04-03-24)
 - [Titta - Paper](https://link.springer.com/article/10.3758/s13428-020-01358-8)
 - [how-to-make-an-eye-tracking-heat-map](https://kexxu.com/how-to-make-an-eye-tracking-heat-map/?v=19d3326f3137) (04-19-24)
+- ["Gaze Tracking Algorithm Based on Projective Mapping Correction
+and Gaze Point Compensation in Natural Light" - Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8899597)
   
 ## Courses on PsychoPy 
 - https://www.djmannion.net/psych_programming/vision/index.html
