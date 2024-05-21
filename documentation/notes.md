@@ -18,6 +18,8 @@
 - ["Gaze Tracking Algorithm Based on Projective Mapping Correction
 and Gaze Point Compensation in Natural Light" - Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8899597)
 - [OpenCV cannot open webcam](https://github.com/opencv/opencv/issues/19527)
+- [Some useful resources about psychopy and python and webcams](https://workshops.psychopy.org/3days/day3/python_parallel/general/pythonForGeneral.html#sampling-from-the-webcam)
+- [Creating a live webcam feed using opencv](https://discourse.psychopy.org/t/creating-a-live-webcam-feed-using-opencv/29166)
 
 ## Helpful
 - [eye-tracking-rois-not-recording discussion](https://discourse.psychopy.org/t/eye-tracking-rois-not-recording/36011/4) (05-14-24) - What I was looking for in a long time. It turns out to be very simple :)
