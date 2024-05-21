@@ -17,6 +17,7 @@
 - [how-to-make-an-eye-tracking-heat-map](https://kexxu.com/how-to-make-an-eye-tracking-heat-map/?v=19d3326f3137) (04-19-24)
 - ["Gaze Tracking Algorithm Based on Projective Mapping Correction
 and Gaze Point Compensation in Natural Light" - Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8899597)
+- [OpenCV cannot open webcam](https://github.com/opencv/opencv/issues/19527)
 
 ## Helpful
 - [eye-tracking-rois-not-recording discussion](https://discourse.psychopy.org/t/eye-tracking-rois-not-recording/36011/4) (05-14-24) - What I was looking for in a long time. It turns out to be very simple :)
