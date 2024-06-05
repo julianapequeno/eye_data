@@ -21,7 +21,11 @@ and Gaze Point Compensation in Natural Light" - Paper](https://ieeexplore.ieee.o
 - [Some useful resources about psychopy and python and webcams](https://workshops.psychopy.org/3days/day3/python_parallel/general/pythonForGeneral.html#sampling-from-the-webcam)
 - [Creating a live webcam feed using opencv](https://discourse.psychopy.org/t/creating-a-live-webcam-feed-using-opencv/29166)
 - [Nottighan University Classes on Psychopy](https://psychology.nottingham.ac.uk/staff/lpzjd/psgy1001-21/psychopy-basics.html) (04-06-24)
-
+- [PsychoJS - A Javascript lib for running Psychopy exps online](https://psychopy.github.io/psychojs/index.html) (06-05-24)
+- [Pavlovia - Ethics](https://pavlovia.org/docs/home/ethics) (06-05-24)
+- [Webgazer - Eyetracker lib for js using webcams - Pavlovia uses this one for running eyetracking exps](https://webgazer.cs.brown.edu/) (06-05-24)
+- [Pavlovia Surveys - Launch Webinar](https://www.youtube.com/watch?v=1fs8CVKBPGk) (06-05-24)
+   
 ## Helpful
 - [eye-tracking-rois-not-recording discussion](https://discourse.psychopy.org/t/eye-tracking-rois-not-recording/36011/4) (05-14-24) - What I was looking for in a long time. It turns out to be very simple :)
 - [running-experiment-on-external-monitor discussion](https://discourse.psychopy.org/t/running-experiment-on-external-monitor/38375)  (05-14-24)
