@@ -25,6 +25,8 @@ and Gaze Point Compensation in Natural Light" - Paper](https://ieeexplore.ieee.o
 - [Pavlovia - Ethics](https://pavlovia.org/docs/home/ethics) (06-05-24)
 - [Webgazer - Eyetracker lib for js using webcams - Pavlovia uses this one for running eyetracking exps](https://webgazer.cs.brown.edu/) (06-05-24)
 - [Pavlovia Surveys - Launch Webinar](https://www.youtube.com/watch?v=1fs8CVKBPGk) (06-05-24)
+- [Psychopy workshop - Day 1 - Building with Builder View](https://workshops.psychopy.org/3days/day1/buildingBetter.html) (06-07-24)
+- [Psychopy workshop - Day 1 - Building with Coder View](https://workshops.psychopy.org/3days/day1/builderAndCode.html) (06-07-24)
    
 ## Helpful
 - [eye-tracking-rois-not-recording discussion](https://discourse.psychopy.org/t/eye-tracking-rois-not-recording/36011/4) (05-14-24) - What I was looking for in a long time. It turns out to be very simple :)
