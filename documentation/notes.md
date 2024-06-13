@@ -27,7 +27,9 @@ and Gaze Point Compensation in Natural Light" - Paper](https://ieeexplore.ieee.o
 - [Pavlovia Surveys - Launch Webinar](https://www.youtube.com/watch?v=1fs8CVKBPGk) (06-05-24)
 - [Psychopy workshop - Day 1 - Building with Builder View](https://workshops.psychopy.org/3days/day1/buildingBetter.html) (06-07-24)
 - [Psychopy workshop - Day 1 - Building with Coder View](https://workshops.psychopy.org/3days/day1/builderAndCode.html) (06-07-24)
-   
+- [OpenCv error can't open camera through video capture](https://stackoverflow.com/questions/59371075/opencv-error-cant-open-camera-through-video-capture/77514023#77514023) (06-13-24)
+- [Installation headaches and partly fixes on ubuntu](https://discourse.psychopy.org/t/installation-headaches-and-partly-fixes-on-ubuntu-20-04/16476/6) (06-13-24)
+
 ## Helpful
 - [eye-tracking-rois-not-recording discussion](https://discourse.psychopy.org/t/eye-tracking-rois-not-recording/36011/4) (05-14-24) - What I was looking for in a long time. It turns out to be very simple :)
 - [running-experiment-on-external-monitor discussion](https://discourse.psychopy.org/t/running-experiment-on-external-monitor/38375)  (05-14-24)
