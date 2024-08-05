@@ -34,3 +34,5 @@
 | 07-11-24 | Okay. I think today was the day that I worked the most during the last few months. I'm very focused on the project. I started the day searching about Psychopy download for linux, though I did not get yet. But I wrote a lot and I believe that I'm on 90% of class 1!! Happy! | Finish class 1. Read and watch more videos about psychopy | Happy, a little bit tired, but veeery excited! | | 
 | 07-12-24 | Unfortunately I didnt have much time, though I could improve a little bit of the design of the repo. Love it. | mini-course | tired | | 
 | 07-15-24 | Today I reached 99% of the first class and I'm happy for this! | Finalizing the first class | A little bit overwhelmed. There are lots of things to write about | |
+| 08-05-24 | I FIND IT! https://discourse.psychopy.org/t/setting-eyetracking-roi-with-builder-and-size/24627 | Finally | Need to make it work. Or at least start building it | |
+ 
