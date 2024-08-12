@@ -35,4 +35,5 @@
 | 07-12-24 | Unfortunately I didnt have much time, though I could improve a little bit of the design of the repo. Love it. | mini-course | tired | | 
 | 07-15-24 | Today I reached 99% of the first class and I'm happy for this! | Finalizing the first class | A little bit overwhelmed. There are lots of things to write about | |
 | 08-05-24 | I FIND IT! https://discourse.psychopy.org/t/setting-eyetracking-roi-with-builder-and-size/24627 | Finally | Need to make it work. Or at least start building it | |
- 
+| 08-09-24 | I had a meeting with a researcher, we are doing a colab with his project. | Work on the topics mentioned| So excited!! | |
+| 08-12-24 | Worked on the sentences of PT dataset | Keep on that | Good | |
