@@ -41,3 +41,4 @@
 | 08-13-24 | Worked on the sentences| | | |
 | 08-14-24 | Worked on the python code script. Struggling with the position of the word | | |
 | 08-15-24 | Got a python script that works for creating the rectangles, I used chatgpt to help me and I got a script that does not depend on other libs | Now I'm moving to ROI COMPs | Okay | |
+| 08-16-24 | Today I made the skeleton for the project, I'm very happy! I got to do the part where the sentences are chosen randomly and shown at the screen! ^^ | Keep working on this! And put everything together | Happy!! Happy!! | |
