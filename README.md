@@ -2,11 +2,8 @@
 > ### Project's development.
 > I've been keeping my thoughts 💡, important links and daily improvements in these files: [project_development.md](documentation/project_development.md) and [notes.md](documentation/notes.md)
 
-### Updates | HeatMap (04-19-24)
-
-<img src='/heatmap/data_collected/20240419.svg'>
-
-Lately I'm focusing in trying new things with the data collected by the EyeTracker. Then, I decided to start by ploting a heatmap of the gaze vector. After some strugles - learning how to work with pandas - I finally get my first glimpse of the heatmaps! 
+### 🌷 Updates (08-30-24)
+Hey, It's kind messy around here. This is the repo that contains a lot of my trials with the Eyetracker using differents components, frameworks and python scripts. Also, there's my thoughts and development throughout the research. Hopely something here helps you! 
 
 ### Tobii Pro SDK
 Before I got started I've got to install Tobii Pro SDK Kit and Tobii Pro EyeTracker Manager. 
